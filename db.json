@@ -1,65 +1,79 @@
 {
-
-    "reading": [{
+    "reading": [
+        {
             "id": 101,
             "userId": 1,
             "title": "Phase-A Voltage",
-            "body": "230.5"
-        }, {
+            "body": 230.5
+        },
+        {
             "id": 102,
             "userId": 1,
             "title": "Phase-B Voltage",
-            "body": "230.5"
-        }, {
+            "body": 230.5
+        },
+        {
             "id": 103,
             "userId": 1,
             "title": "Phase-C Voltage",
-            "body": "230.5"
-        }, {
+            "body": 230.5
+        },
+        {
             "userId": 1,
             "id": 104,
             "title": "Active Power",
-            "body": "1500.25"
-        }, {
+            "body": 1500.25
+        },
+        {
             "id": 105,
             "userId": 1,
             "title": "Total Energy",
-            "body": "12450.7"
-        }, {
+            "body": 12450.7
+        },
+        {
             "id": 106,
             "userId": 1,
             "title": "Reactive Energy",
-            "body": "320.1"
-        }, {
+            "body": 320.1
+        },
+        {
             "id": 107,
             "userId": 2,
             "title": "Phase-A Voltage",
-            "body": "230.5"
-        }, {
+            "body": 230.5
+        },
+        {
             "id": 108,
             "userId": 2,
             "title": "Phase-B Voltage",
-            "body": "230.5"
-        }, {
+            "body": 230.5
+        },
+        {
             "id": 109,
             "userId": 2,
             "title": "Phase-C Voltage",
-            "body": "230.5"
-        }, {
+            "body": 230.5
+        },
+        {
             "id": 110,
             "userId": 2,
             "title": "Active Power",
-            "body": "1500.25"
-        }, {
+            "body": 1500.25
+        },
+        {
             "id": 111,
             "userId": 2,
             "title": "Total Energy",
-            "body": "12450.7"
-        }, {
+            "body": 12450.7
+        },
+        {
             "id": 112,
             "userId": 2,
             "title": "Reactive Energy",
-            "body": "320.1"
+            "body": 320.1
         }
-    ]
+    ],
+    "profile": {
+        "name": "energycms"
+    }
 }
